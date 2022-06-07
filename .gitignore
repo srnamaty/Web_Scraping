@@ -1,0 +1,11 @@
+connection_db.py
+.ipynb_checkpoints/
+DATA/
+DATA_IMPORT/
+Restored/
+SAVE/
+__pycache__/
+RAW_DATA/
+clean_data_jobs.csv
+LOGO/
+!Storing_data_DB.ipynb
